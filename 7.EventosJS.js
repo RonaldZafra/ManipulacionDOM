@@ -1,4 +1,4 @@
- // Se leen los elementos de HTML
+  // Se leen los elementos de HTML
 const h1 = document.querySelector('h1')
 const form = document.querySelector('#formulario')
 const inputOne = document.querySelector('#calculo1');
